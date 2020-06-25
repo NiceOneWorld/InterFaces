@@ -1,0 +1,13 @@
+C:\Users\vlady\OneDrive\Рабочий стол\string\InterFaces\InterFaces\obj\Debug\netcoreapp3.1\InterFaces.csprojAssemblyReference.cache
+C:\Users\vlady\OneDrive\Рабочий стол\string\InterFaces\InterFaces\obj\Debug\netcoreapp3.1\InterFaces.csproj.CoreCompileInputs.cache
+C:\Users\vlady\OneDrive\Рабочий стол\string\InterFaces\InterFaces\obj\Debug\netcoreapp3.1\InterFaces.AssemblyInfoInputs.cache
+C:\Users\vlady\OneDrive\Рабочий стол\string\InterFaces\InterFaces\obj\Debug\netcoreapp3.1\InterFaces.AssemblyInfo.cs
+C:\Users\vlady\OneDrive\Рабочий стол\string\InterFaces\InterFaces\bin\Debug\netcoreapp3.1\InterFaces.exe
+C:\Users\vlady\OneDrive\Рабочий стол\string\InterFaces\InterFaces\bin\Debug\netcoreapp3.1\InterFaces.deps.json
+C:\Users\vlady\OneDrive\Рабочий стол\string\InterFaces\InterFaces\bin\Debug\netcoreapp3.1\InterFaces.runtimeconfig.json
+C:\Users\vlady\OneDrive\Рабочий стол\string\InterFaces\InterFaces\bin\Debug\netcoreapp3.1\InterFaces.runtimeconfig.dev.json
+C:\Users\vlady\OneDrive\Рабочий стол\string\InterFaces\InterFaces\bin\Debug\netcoreapp3.1\InterFaces.dll
+C:\Users\vlady\OneDrive\Рабочий стол\string\InterFaces\InterFaces\bin\Debug\netcoreapp3.1\InterFaces.pdb
+C:\Users\vlady\OneDrive\Рабочий стол\string\InterFaces\InterFaces\obj\Debug\netcoreapp3.1\InterFaces.dll
+C:\Users\vlady\OneDrive\Рабочий стол\string\InterFaces\InterFaces\obj\Debug\netcoreapp3.1\InterFaces.pdb
+C:\Users\vlady\OneDrive\Рабочий стол\string\InterFaces\InterFaces\obj\Debug\netcoreapp3.1\InterFaces.genruntimeconfig.cache
